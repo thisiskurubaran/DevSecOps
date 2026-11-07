@@ -20,3 +20,4 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 - `performance-review` skill
 - `docs-writer` skill
 - `threat-modeling` skill
+- `security-audit` skill
