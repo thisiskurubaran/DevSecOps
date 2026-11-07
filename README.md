@@ -6,7 +6,7 @@ Security and delivery workflows for Claude, packaged as installable skills.
 
 [![Release](https://img.shields.io/github/v/release/thisiskurubaran/DevSecOps-Skills?sort=semver)](https://github.com/thisiskurubaran/DevSecOps-Skills/releases)
 [![License: MIT](https://img.shields.io/github/license/thisiskurubaran/DevSecOps-Skills)](LICENSE)
-[![Skills](https://img.shields.io/badge/skills-36-2ea44f)](#skills)
+[![Skills](https://img.shields.io/badge/skills-42-2ea44f)](#skills)
 [![Claude Code support](https://img.shields.io/badge/Claude_Code-supported-D97757)](#claude-code)
 [![claude.ai](https://img.shields.io/badge/claude.ai-supported-D97757)](#claudeai-and-claude-desktop)
 [![Conventional Commits](https://img.shields.io/badge/Conventional_Commits-1.0.0-FE5196?logo=conventionalcommits&logoColor=white)](https://www.conventionalcommits.org/)
@@ -25,7 +25,7 @@ Security and delivery workflows for Claude, packaged as installable skills.
 
 Each skill is a folder with a `SKILL.md` that teaches Claude one workflow: review a Terraform module, audit a GitHub Actions workflow, triage Trivy output, write a blameless postmortem. Claude loads a skill when your request matches its description, then follows its steps, checklist and output format.
 
-- 36 skills across the delivery lifecycle, from planning to incident response
+- 42 skills across the delivery lifecycle, from planning to incident response
 - Findings come back in a consistent table: severity, file, line and a concrete fix
 - Checks are built around real tools: Semgrep, Trivy, Checkov, zizmor, cosign, Falco, Prowler, OPA, Kyverno
 - Install one folder or all of them
