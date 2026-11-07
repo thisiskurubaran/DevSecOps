@@ -44,6 +44,7 @@ Claude Desktop.
 | [incident-response](skills/incident-response) | Operate | Guides triage, containment, comms and escalation |
 | [incident-postmortem](skills/incident-postmortem) | Operate | Writes a blameless timeline, root cause and action items |
 | [vuln-management](skills/vuln-management) | Operate | Sets fix SLAs, prioritizes with EPSS and KEV, dedupes across scanners and reports aging |
+| [runtime-security](skills/runtime-security) | Operate | Writes and tunes Falco and Tetragon rules and triages runtime alerts |
 
 ## Install
 
