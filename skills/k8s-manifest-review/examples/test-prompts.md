@@ -5,7 +5,7 @@ How to test: copy `skills/k8s-manifest-review` to `~/.claude/skills/`, start a f
 ## Should trigger
 
 1. "Review the manifests in `k8s/` before we deploy to prod. I'm worried about RBAC and that nothing has resource limits."
-2. "Here is our Helm chart's `values.yaml` and `deployment.yaml` template. Will it pass the Pod Security Standards restricted profile?"
+2. "Here is the output of `kustomize build overlays/prod`. Will these Deployments pass the Pod Security Standards restricted profile?"
 
 ## Should not trigger
 

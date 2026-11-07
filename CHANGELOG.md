@@ -12,6 +12,10 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 - `auth-review` skill
 - `helm-review` skill
 
+### Changed
+
+- `k8s-manifest-review`: hand Helm chart reviews to `helm-review`
+
 ## [0.2.0] - 2026-11-07
 
 ### Added

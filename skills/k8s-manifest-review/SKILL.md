@@ -1,6 +1,6 @@
 ---
 name: k8s-manifest-review
-description: Review Kubernetes manifests, Helm charts and Kustomize overlays for pod security (securityContext, Pod Security Standards restricted profile), RBAC scope, NetworkPolicies, resource requests and limits, probes and image pinning, using kube-score, kubeconform, Checkov or Trivy, and return fixed YAML. Use when the user shares Deployment, StatefulSet, Pod, Role, ClusterRole or NetworkPolicy YAML, a Helm values file or rendered chart, or opens a PR touching k8s/ or charts/.
+description: Review Kubernetes manifests, Kustomize overlays and rendered Helm output for pod security (securityContext, Pod Security Standards restricted profile), RBAC scope, NetworkPolicies, resource requests and limits, probes and image pinning, using kube-score, kubeconform, Checkov or Trivy, and return fixed YAML. Use when the user shares Deployment, StatefulSet, Pod, Role, ClusterRole or NetworkPolicy YAML, Kustomize overlays or the output of helm template, or opens a PR touching k8s/ or manifests/. For Helm chart structure, values defaults and templates use helm-review.
 ---
 
 # Kubernetes Manifest Review
@@ -11,10 +11,10 @@ Check that workloads run with the least privilege the cluster allows, cannot tal
 
 - The user shares raw manifests (`Deployment`, `StatefulSet`, `DaemonSet`, `Job`, `CronJob`, `Pod`, `Service`, `Ingress`).
 - The user shares RBAC objects (`Role`, `ClusterRole`, `RoleBinding`, `ClusterRoleBinding`, `ServiceAccount`).
-- The user shares a Helm chart, a `values.yaml`, or a Kustomize overlay and asks if it is safe.
-- A PR touches `k8s/`, `deploy/`, `charts/`, `manifests/` or `kustomization.yaml`.
+- The user shares a Kustomize overlay or rendered `helm template` output and asks if it is safe.
+- A PR touches `k8s/`, `deploy/`, `manifests/` or `kustomization.yaml`.
 
-Not for: the Dockerfile and image contents (use `container-security`), cluster creation in Terraform such as EKS or GKE settings (use `iac-review`), cloud IAM roles bound through IRSA or Workload Identity (use `cloud-iam-review`), or writing Kyverno and Gatekeeper admission policies (use `policy-as-code`).
+Not for: Helm chart structure, `values.yaml` defaults, templates, dependencies and chart signing (use `helm-review`), the Dockerfile and image contents (use `container-security`), cluster creation in Terraform such as EKS or GKE settings (use `iac-review`), cloud IAM roles bound through IRSA or Workload Identity (use `cloud-iam-review`), or writing Kyverno and Gatekeeper admission policies (use `policy-as-code`).
 
 ## Steps
 
