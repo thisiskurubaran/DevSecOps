@@ -19,6 +19,7 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 ### Changed
 
 - `k8s-manifest-review`: hand Helm chart reviews to `helm-review`
+- README: badges, quick start, skill index grouped by stage, install-all and update steps
 
 ## [0.2.0] - 2026-11-07
 
