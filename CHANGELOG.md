@@ -18,3 +18,4 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 - `migration-helper` skill
 - `refactoring-guide` skill
 - `performance-review` skill
+- `docs-writer` skill
