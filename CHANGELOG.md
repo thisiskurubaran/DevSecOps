@@ -27,3 +27,4 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 - `cicd-pipeline-builder` skill
 - `container-security` skill
 - `iac-review` skill
+- `k8s-manifest-review` skill
