@@ -11,6 +11,7 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 - `dast-setup` skill
 - `security-headers` skill
+- `gitops-security` skill
 
 ### Changed
 

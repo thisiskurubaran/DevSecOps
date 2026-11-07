@@ -114,6 +114,7 @@ Review the Terraform in infra/ before I merge.
 | Skill | What it does |
 |---|---|
 | [release-checklist](skills/release-checklist) | Covers versioning, CI checks, feature flags and rollback plans |
+| [gitops-security](skills/gitops-security) | Reviews Argo CD and Flux setups: project scoping, RBAC, repo access, source verification |
 
 ### Operate
 
