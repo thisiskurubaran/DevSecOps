@@ -77,6 +77,7 @@ Review the Terraform in infra/ before I merge.
 | [auth-review](skills/auth-review) | Reviews OAuth/OIDC flows, JWT validation, sessions, MFA and RBAC/ABAC logic |
 | [api-security-review](skills/api-security-review) | Checks OpenAPI specs, GraphQL schemas and endpoints against the OWASP API Top 10 |
 | [llm-app-security](skills/llm-app-security) | Reviews LLM apps, RAG and agents against the OWASP Top 10 for LLM Applications |
+| [security-headers](skills/security-headers) | Writes and reviews CSP, HSTS, CORS, cookie flags and other browser hardening headers |
 | [sast-dast-triage](skills/sast-dast-triage) | Sorts scanner output into real findings and false positives, then ranks them |
 | [dast-setup](skills/dast-setup) | Wires ZAP or Nuclei scans into CI against preview environments, with auth and baselines |
 | [dependency-supply-chain](skills/dependency-supply-chain) | Reviews SCA results, CVEs, licenses and SBOMs |
