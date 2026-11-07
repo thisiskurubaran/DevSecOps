@@ -10,6 +10,7 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 ### Added
 
 - `pipeline-hardening` skill
+- `api-security-review` skill
 
 ## [0.1.0] - 2026-11-07
 

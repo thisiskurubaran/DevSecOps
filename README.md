@@ -27,6 +27,7 @@ Claude Desktop.
 | [sast-dast-triage](skills/sast-dast-triage) | Secure | Sorts scanner output into real findings and false positives, then ranks them |
 | [dependency-supply-chain](skills/dependency-supply-chain) | Secure | Reviews SCA results, CVEs, licenses and SBOMs |
 | [secrets-management](skills/secrets-management) | Secure | Finds hardcoded secrets, plans rotation, enforces Vault or KMS |
+| [api-security-review](skills/api-security-review) | Secure | Checks OpenAPI specs, GraphQL schemas and endpoints against the OWASP API Top 10 |
 | [cicd-pipeline-builder](skills/cicd-pipeline-builder) | Build | Writes GitHub Actions or GitLab CI with security gates |
 | [container-security](skills/container-security) | Build | Hardens Dockerfiles and reviews image scan results |
 | [pipeline-hardening](skills/pipeline-hardening) | Build | Audits existing GitHub Actions and GitLab CI for unpinned actions, injection, broad tokens and long-lived keys |
