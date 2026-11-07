@@ -29,6 +29,7 @@ Claude Desktop.
 | [secrets-management](skills/secrets-management) | Secure | Finds hardcoded secrets, plans rotation, enforces Vault or KMS |
 | [cicd-pipeline-builder](skills/cicd-pipeline-builder) | Build | Writes GitHub Actions or GitLab CI with security gates |
 | [container-security](skills/container-security) | Build | Hardens Dockerfiles and reviews image scan results |
+| [pipeline-hardening](skills/pipeline-hardening) | Build | Audits existing GitHub Actions and GitLab CI for unpinned actions, injection, broad tokens and long-lived keys |
 | [iac-review](skills/iac-review) | Infra | Checks Terraform and CloudFormation for misconfigurations |
 | [k8s-manifest-review](skills/k8s-manifest-review) | Infra | Checks pod security, RBAC, network policies and resource limits |
 | [cloud-iam-review](skills/cloud-iam-review) | Infra | Finds over-privileged roles and enforces least privilege |
