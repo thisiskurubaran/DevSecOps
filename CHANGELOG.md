@@ -32,3 +32,4 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 - `policy-as-code` skill
 - `release-checklist` skill
 - `observability-setup` skill
+- `incident-response` skill
