@@ -23,6 +23,7 @@ Claude Desktop.
 | [performance-review](skills/performance-review) | Develop | Finds N+1 queries, missing indexes, re-renders and memory leaks |
 | [docs-writer](skills/docs-writer) | Develop | Writes READMEs, docstrings, ADRs and changelogs |
 | [threat-modeling](skills/threat-modeling) | Plan | Runs STRIDE on new features and maps trust boundaries |
+| [privacy-review](skills/privacy-review) | Plan | Maps personal data flows and checks retention, consent and deletion against GDPR and CCPA |
 | [security-audit](skills/security-audit) | Secure | Checks code for OWASP Top 10 issues, injection and auth gaps |
 | [sast-dast-triage](skills/sast-dast-triage) | Secure | Sorts scanner output into real findings and false positives, then ranks them |
 | [dependency-supply-chain](skills/dependency-supply-chain) | Secure | Reviews SCA results, CVEs, licenses and SBOMs |
