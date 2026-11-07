@@ -7,8 +7,14 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 
+## [0.1.0] - 2026-11-07
+
+First release.
+
 ### Added
 
+- README with skill index and install steps for Claude Code, claude.ai and Claude Desktop
+- Contributing guide, code of conduct, security policy, issue and PR templates
 - `code-review` skill
 - `commit-pr-writer` skill
 - `test-generator` skill
@@ -34,3 +40,6 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 - `observability-setup` skill
 - `incident-response` skill
 - `incident-postmortem` skill
+
+[Unreleased]: https://github.com/thisiskurubaran/DevSecOps-Skills/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/thisiskurubaran/DevSecOps-Skills/releases/tag/v0.1.0
