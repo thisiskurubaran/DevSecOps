@@ -24,3 +24,4 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 - `sast-dast-triage` skill
 - `dependency-supply-chain` skill
 - `secrets-management` skill
+- `cicd-pipeline-builder` skill
