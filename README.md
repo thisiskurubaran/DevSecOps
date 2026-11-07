@@ -75,6 +75,7 @@ Review the Terraform in infra/ before I merge.
 |---|---|
 | [security-audit](skills/security-audit) | Checks code for OWASP Top 10 issues, injection and auth gaps |
 | [auth-review](skills/auth-review) | Reviews OAuth/OIDC flows, JWT validation, sessions, MFA and RBAC/ABAC logic |
+| [crypto-review](skills/crypto-review) | Flags weak algorithms, nonce misuse, hardcoded keys, bad randomness and disabled TLS checks |
 | [api-security-review](skills/api-security-review) | Checks OpenAPI specs, GraphQL schemas and endpoints against the OWASP API Top 10 |
 | [llm-app-security](skills/llm-app-security) | Reviews LLM apps, RAG and agents against the OWASP Top 10 for LLM Applications |
 | [security-headers](skills/security-headers) | Writes and reviews CSP, HSTS, CORS, cookie flags and other browser hardening headers |
