@@ -7,7 +7,7 @@ Security and delivery workflows for Claude, packaged as installable skills.
 [![Release](https://img.shields.io/github/v/release/thisiskurubaran/DevSecOps-Skills?sort=semver)](https://github.com/thisiskurubaran/DevSecOps-Skills/releases)
 [![License: MIT](https://img.shields.io/github/license/thisiskurubaran/DevSecOps-Skills)](LICENSE)
 [![Skills](https://img.shields.io/badge/skills-36-2ea44f)](#skills)
-[![Claude Code](https://img.shields.io/badge/Claude_Code-supported-D97757)](#claude-code)
+[![Claude Code support](https://img.shields.io/badge/Claude_Code-supported-D97757)](#claude-code)
 [![claude.ai](https://img.shields.io/badge/claude.ai-supported-D97757)](#claudeai-and-claude-desktop)
 [![Conventional Commits](https://img.shields.io/badge/Conventional_Commits-1.0.0-FE5196?logo=conventionalcommits&logoColor=white)](https://www.conventionalcommits.org/)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)](CONTRIBUTING.md)

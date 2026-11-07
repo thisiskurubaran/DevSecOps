@@ -7,6 +7,10 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 
+### Changed
+
+- README: rename the Claude Code badge alt text
+
 ## [0.3.0] - 2026-11-07
 
 ### Added
