@@ -40,6 +40,7 @@ Claude Desktop.
 | [cloud-iam-review](skills/cloud-iam-review) | Infra | Finds over-privileged roles and enforces least privilege |
 | [cspm-triage](skills/cspm-triage) | Infra | Turns Prowler, ScoutSuite or Security Hub findings into a ranked fix plan |
 | [policy-as-code](skills/policy-as-code) | Compliance | Writes OPA/Rego or Kyverno rules, maps controls to SOC 2, ISO 27001, PCI |
+| [risk-acceptance](skills/risk-acceptance) | Compliance | Writes risk acceptance records with owner, expiry and compensating controls |
 | [release-checklist](skills/release-checklist) | Deploy | Covers versioning, CI checks, feature flags and rollback plans |
 | [observability-setup](skills/observability-setup) | Operate | Sets up logs, metrics, traces, alerts and SLOs without leaking PII |
 | [incident-response](skills/incident-response) | Operate | Guides triage, containment, comms and escalation |

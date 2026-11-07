@@ -13,6 +13,7 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 - `helm-review` skill
 - `runtime-security` skill
 - `cspm-triage` skill
+- `risk-acceptance` skill
 
 ### Changed
 
