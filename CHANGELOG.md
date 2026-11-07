@@ -7,6 +7,10 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 
+### Added
+
+- `auth-review` skill
+
 ## [0.2.0] - 2026-11-07
 
 ### Added

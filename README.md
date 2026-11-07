@@ -29,6 +29,7 @@ Claude Desktop.
 | [secrets-management](skills/secrets-management) | Secure | Finds hardcoded secrets, plans rotation, enforces Vault or KMS |
 | [api-security-review](skills/api-security-review) | Secure | Checks OpenAPI specs, GraphQL schemas and endpoints against the OWASP API Top 10 |
 | [llm-app-security](skills/llm-app-security) | Secure | Reviews LLM apps, RAG and agents against the OWASP Top 10 for LLM Applications |
+| [auth-review](skills/auth-review) | Secure | Reviews OAuth/OIDC flows, JWT validation, sessions, MFA and RBAC/ABAC logic |
 | [cicd-pipeline-builder](skills/cicd-pipeline-builder) | Build | Writes GitHub Actions or GitLab CI with security gates |
 | [container-security](skills/container-security) | Build | Hardens Dockerfiles and reviews image scan results |
 | [pipeline-hardening](skills/pipeline-hardening) | Build | Audits existing GitHub Actions and GitLab CI for unpinned actions, injection, broad tokens and long-lived keys |
