@@ -16,3 +16,4 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 - `project-conventions` skill
 - `api-scaffolder` skill
 - `migration-helper` skill
+- `refactoring-guide` skill
