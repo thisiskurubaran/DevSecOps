@@ -22,3 +22,4 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 - `threat-modeling` skill
 - `security-audit` skill
 - `sast-dast-triage` skill
+- `dependency-supply-chain` skill
