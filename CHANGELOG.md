@@ -13,3 +13,4 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 - `commit-pr-writer` skill
 - `test-generator` skill
 - `debugging-playbook` skill
+- `project-conventions` skill
