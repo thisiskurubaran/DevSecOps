@@ -29,3 +29,4 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 - `iac-review` skill
 - `k8s-manifest-review` skill
 - `cloud-iam-review` skill
+- `policy-as-code` skill
