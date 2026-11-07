@@ -13,6 +13,7 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 - `security-headers` skill
 - `gitops-security` skill
 - `crypto-review` skill
+- `detection-engineering` skill
 
 ### Changed
 

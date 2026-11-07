@@ -123,6 +123,7 @@ Review the Terraform in infra/ before I merge.
 |---|---|
 | [observability-setup](skills/observability-setup) | Sets up logs, metrics, traces, alerts and SLOs without leaking PII |
 | [runtime-security](skills/runtime-security) | Writes and tunes Falco and Tetragon rules and triages runtime alerts |
+| [detection-engineering](skills/detection-engineering) | Writes and tunes Sigma rules and SIEM queries for cloud and identity logs, mapped to ATT&CK |
 | [vuln-management](skills/vuln-management) | Sets fix SLAs, prioritizes with EPSS and KEV, dedupes across scanners and reports aging |
 | [incident-response](skills/incident-response) | Guides triage, containment, comms and escalation |
 | [incident-postmortem](skills/incident-postmortem) | Writes a blameless timeline, root cause and action items |
