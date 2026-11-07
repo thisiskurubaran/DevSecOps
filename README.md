@@ -38,6 +38,7 @@ Claude Desktop.
 | [k8s-manifest-review](skills/k8s-manifest-review) | Infra | Checks pod security, RBAC, network policies and resource limits |
 | [helm-review](skills/helm-review) | Infra | Checks Helm values defaults, templates, dependencies and chart provenance |
 | [cloud-iam-review](skills/cloud-iam-review) | Infra | Finds over-privileged roles and enforces least privilege |
+| [cspm-triage](skills/cspm-triage) | Infra | Turns Prowler, ScoutSuite or Security Hub findings into a ranked fix plan |
 | [policy-as-code](skills/policy-as-code) | Compliance | Writes OPA/Rego or Kyverno rules, maps controls to SOC 2, ISO 27001, PCI |
 | [release-checklist](skills/release-checklist) | Deploy | Covers versioning, CI checks, feature flags and rollback plans |
 | [observability-setup](skills/observability-setup) | Operate | Sets up logs, metrics, traces, alerts and SLOs without leaking PII |
