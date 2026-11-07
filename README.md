@@ -53,6 +53,7 @@ Review the Terraform in infra/ before I merge.
 |---|---|
 | [threat-modeling](skills/threat-modeling) | Runs STRIDE on new features and maps trust boundaries |
 | [privacy-review](skills/privacy-review) | Maps personal data flows and checks retention, consent and deletion against GDPR and CCPA |
+| [devsecops-maturity](skills/devsecops-maturity) | Scores a team against OWASP SAMM or DSOMM and builds a quarterly roadmap |
 
 ### Develop
 

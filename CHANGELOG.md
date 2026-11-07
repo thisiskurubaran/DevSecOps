@@ -14,6 +14,7 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 - `gitops-security` skill
 - `crypto-review` skill
 - `detection-engineering` skill
+- `devsecops-maturity` skill
 
 ### Changed
 
